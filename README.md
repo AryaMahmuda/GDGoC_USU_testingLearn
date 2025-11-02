@@ -4,7 +4,7 @@
 ## Major TRPL - (Teknologi Rekayasa Perangkat Lunak)
 ## Software Engineering Technology
 
-TRPL POLMED
+TRPL POLMED JURUSAN BARU LAHIR 2021
 
 
 <img src="programmer.png" width="50">
